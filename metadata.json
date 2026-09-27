@@ -1,0 +1,6 @@
+{
+  "name": "ABC Learning Adventure",
+  "description": "Learn • Play • Grow - An interactive, responsive educational web game for young children to master the alphabet, numbers 1 to 100, vocabulary words, and simple sentences through typing, falling objects, and playful celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
